@@ -1,10 +1,13 @@
 {
     "name": "gzip-buffer"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "description": "GZips and GUnzips via a buffer rather than a stream"
   , "keywords": []
+  , "repository": {"type": "git", "url": "git@github.com:devdazed/gzip-buffer.git" }
   , "author": "Russell Bradberry <rbradberry@gmail.com>"
   , "dependencies": {}
+  , "devDependencies": { "nodeunit" : ">=0.6.0" }
+  , "scripts": { "test": "nodeunit test/gzip-buffer.js" }
   , "main": "index"
-  , "engines": { "node": "0.5.x" }
+  , "engines": { "node": ">0.5" }
 }
