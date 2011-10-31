@@ -1,0 +1,10 @@
+{
+    "name": "gzip-buffer"
+  , "version": "0.0.1"
+  , "description": "GZips and GUnzips via a buffer rather than a stream"
+  , "keywords": []
+  , "author": "Russell Bradberry <rbradberry@gmail.com>"
+  , "dependencies": {}
+  , "main": "index"
+  , "engines": { "node": "0.5.x" }
+}
