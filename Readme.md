@@ -8,6 +8,10 @@
   it is rather difficult. gzip-buffer will un/compress your data and callback
   with the results in a buffer.
 
+# installation
+
+    npm install gzip-buffer
+
 # example
 
     var gbuf = require('gzip-buffer');
