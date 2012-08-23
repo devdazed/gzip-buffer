@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/devdazed/gzip-buffer.png)](http://travis-ci.org/devdazed/gzip-buffer)
 
 # gzip-buffer
 
